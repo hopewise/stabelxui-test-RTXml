@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Stablexui" package="com.sample.stablexui" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="Stablexui" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+        
+        <haxelib name="hscript"/>
+        <haxelib name="mloader"/>
+	<haxelib name="stablexui"/>	
+
+	<assets path="Assets" rename="assets" />
+	
+</project>

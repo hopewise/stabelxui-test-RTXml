@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VBox name="'battery'" >
+	<VBox>
+		<HBox w="Main.InspectorWidth" layout:Column-cols="[Utils.DPS(170), -1]" layout:Column-fit="true" >
+			
+				<Text text="Main.word('Voltage')"/>
+			
+
+		</HBox>
+
+	</VBox>
+</VBox>
